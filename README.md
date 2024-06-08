@@ -4,7 +4,7 @@
 "url": "https://aficionados.vercel.app/14.DoCUmENTaLeS TV.w3u",
 "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
 "telegram": "",
-"info": "",
+"info": "tintxi",
 "groups":
     [
  
